@@ -35513,7 +35513,7 @@ JU(a){var s,r=this,q=null
 r.a.toString
 s=r.gO1()
 r.a.toString
-return new A.u9(q,q,q,new A.a0X(),q,q,q,q,q,B.Cn,B.Cw,q,q,B.Ae,r.gO7(),"My First Map",q,B.FE,B.d7,q,s,q,q,B.l_,!1,!1,!1,!1,r.gNO(),!0,q,q,q,!1,new A.iT(r,t.l9))},
+return new A.u9(q,q,q,new A.a0X(),q,q,q,q,q,B.Cn,B.Cw,q,q,B.Ae,r.gO7(),"CoderMate",q,B.FE,B.d7,q,s,q,q,B.l_,!1,!1,!1,!1,r.gNO(),!0,q,q,q,!1,new A.iT(r,t.l9))},
 O(a){var s,r=null,q=A.Pm(!1,!1,this.JU(a),r,r,r,r,!0,r,r,new A.a0Y(),r,r)
 this.a.toString
 s=this.d
@@ -57487,7 +57487,7 @@ B.HN=new A.p(!0,B.i,null,"Roboto",null,null,null,null,null,null,null,null,null,n
 B.Hq=new A.p(!0,B.i,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"whiteMountainView labelSmall",null,null,null,null)
 B.IA=new A.d7(B.Ha,B.Ij,B.I2,B.FV,B.HV,B.H3,B.In,B.Gl,B.GN,B.HQ,B.FQ,B.I4,B.HT,B.HN,B.Hq)
 B.IB=new A.DJ(1,"longestLine")
-B.IC=new A.nL("Flutter MapBox",null,null,null,null,null)
+B.IC=new A.nL("CoderMate - Explore",null,null,null,null,null)
 B.ID=new A.tW(null)
 B.dv=new A.DM(0,"clamp")
 B.tG=new A.DM(3,"decal")
