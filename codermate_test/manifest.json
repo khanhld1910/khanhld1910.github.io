@@ -1,6 +1,6 @@
 {
-    "name": "codermate_play",
-    "short_name": "codermate_play",
+    "name": "codermate",
+    "short_name": "codermate",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
