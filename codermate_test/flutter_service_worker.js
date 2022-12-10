@@ -4,8 +4,8 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "b88baa09cf13427445f84583423bf48d",
-"index.html": "cb79d702a55710f9fd7e0ee69430a140",
-"/": "cb79d702a55710f9fd7e0ee69430a140",
+"index.html": "796268124d34ce7a6032e570613eb0bb",
+"/": "796268124d34ce7a6032e570613eb0bb",
 "main.dart.js": "bc8ae16b94bed4bc528f5641cf9bbf39",
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
@@ -15,7 +15,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "b534aa46a18894ce71bc45c56ed80a12",
 "assets/AssetManifest.json": "5ea27f646823f8f2e7269181d600d5e0",
-"assets/NOTICES": "1c4ff2762e1dfc74e9c0bef411807801",
+"assets/NOTICES": "85919000fd2310bfbb24b557410fb492",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/getwidget/icons/slack.png": "19155b848beeb39c1ffcf743608e2fde",
